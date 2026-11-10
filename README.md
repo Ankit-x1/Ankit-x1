@@ -1,8 +1,3 @@
 # Ankit Karki
 
-Here are the stuffs i like
-
-- Computer vision and deep learning
-- Edge inference and embedded machine learning
-- MLOps and AI infrastructure
-- Robotics and agentic automation
+Hi. I am Ankit and my models generalize beautifully, as long as the test set looks exactly like the training set.
